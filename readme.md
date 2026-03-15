@@ -1,5 +1,7 @@
 ## Welcome to git
+## Hello every one welcome to my git guide 
+
+-you attty here
 - i am adding something
-- this is comming from 'dev-atif'
 - adding new 
 hello every body
